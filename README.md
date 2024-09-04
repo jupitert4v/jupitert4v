@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jupitert4v
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning C
+- 😄 Pronouns: He/Him
